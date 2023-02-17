@@ -10,7 +10,7 @@ project.version = "0.1.0"
 // Version Catalog
 catalog {
     versionCatalog {
-        alias("slf4j-api").to("org.slf4j:slf4j-api:1.7.30")
+        alias("slf4j-api").to("org.slf4j:slf4j-api:1.7.31")
     }
 }
 
